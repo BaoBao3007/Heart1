@@ -1,0 +1,10 @@
+.center-text{
+    animation-name: a,b,c,d;
+    animation-duration:1s;
+    animation-iteration-count:infinite;
+    
+    } 
+    @keyframes a{
+        
+    
+    }
